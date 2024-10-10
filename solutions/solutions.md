@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/1018986e-a9b8-40d8-a242-90ece5f6215c
 # Solutions
 
 ## Asignación 1 - Mejorar la satisfacción y retención del cliente a través del Servicio al Cliente
